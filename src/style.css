@@ -1,0 +1,42 @@
+html,
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
+	background-color: #eeeeee;
+}
+
+#wrapper {
+	display: block;
+	margin: 0 auto;
+	width: 900px;
+	background-color: #ffffff;
+	text-align: center;
+	padding: 100px;
+	line-height: 30px;
+	height: 100vh;
+	box-sizing: border-box;
+}
+
+#wrapper b {
+	color: #1d3d7c;
+}
+
+h1 {
+	color: #1d3d7c;
+}
+
+hr {
+	background-color: #1d3d7c;
+	opacity: 0.5;
+	border: 0px;
+	height: 2px;
+	margin: 30px 0;
+}
+
+.code {
+	font-family: monospace;
+	background-color: #eeeeee;
+	border-radius: 4px;
+	padding: 3px 6px;
+}
